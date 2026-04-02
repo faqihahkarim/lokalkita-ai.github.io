@@ -1,0 +1,9 @@
+numpy
+fastapi
+uvicorn
+gunicorn
+pandas
+scikit-learn
+mysql-connector-python
+sentence-transformers
+torch --index-url https://download.pytorch.org/whl/cpu

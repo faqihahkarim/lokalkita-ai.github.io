@@ -1,0 +1,232 @@
+item_id,title,tfidf_raw_score,tfidf_normalized
+EX126,Malaysia Heritage Studios,0.24115145279268269,1.0
+EX32,Cwoks Batik workshop,0.17788121895755185,0.7376327900892884
+EX141,MyBatik Art Gallery,0.1644267819257357,0.6818403124740575
+EX210,The Art Attic,0.15487038284819166,0.6422121080121933
+EX17,Bonita and Beads Sarawak,0.11531819370845275,0.47819821267090407
+EX142,MyPintu Plate,0.10914173249153512,0.45258583859896545
+EX163,Penang Street Art,0.10817742992780204,0.448587096096833
+EX226,Wooden Artwork KWM Craft,0.0936775673422096,0.3884594774668182
+EX121,Mah Meri Cultural Village,0.09361645505429862,0.38820605876581826
+EX52,Galeri Tenun Pahang,0.09295237693559591,0.3854522784712678
+EX174,Pottery Workshop in George Town Penang,0.0926303086577774,0.38411673487785886
+EX130,Maria Kek Lapis Sarawak,0.09177065306710051,0.3805519394734707
+EX50,Fusion Wayang Kulit Gallery,0.09093299801450565,0.3770783752759745
+EX92,Kek Lapis Mama Su (Bangi),0.07769753813787851,0.32219394591279904
+EX172,Pottery Making at Win Kraf Labu Sayong,0.07120356190525665,0.29526490958555485
+EX84,Kampung Laut Cultural Heritage Site,0.06704718962215231,0.27802938296951757
+EX53,Galeri Terompah Mastor,0.06562438637693209,0.272129342854713
+EX231,Mari Mari Cultural Village,0.061756263614159784,0.25608912116839494
+EX61,"Historical, Heritage & Cultural Walks George Town",0.0591166496743221,0.24514324500107632
+EX145,Natural Batik Village,0.057168909701005716,0.2370664121611313
+EX54,Galeri Wau Pak Sapie and Sons,0.05600104928923223,0.23222356175219147
+EX167,Persembahan Barongan dan Kuda Kepang,0.055374001358469246,0.22962333718998632
+EX140,myBatik (by appointment),0.055207306980185666,0.22893209367329523
+EX224,Warisan Craft Wood,0.05354253829007524,0.22202867811916369
+EX51,Galeri Tekatan Benang Emas,0.051493715880932614,0.21353267950328972
+EX10,Batik Coloring Workshop in Kuala Lumpur,0.05078919936089739,0.2106112103938297
+EX69,Jadi Batek - Batik fashion gifts wholesaler retailer,0.05000812740965281,0.20737228339505248
+EX207,Tekat Benhafni,0.04947134968054398,0.2051463887429879
+EX127,Malaysian Batik Experience - Handkerchief,0.04930307061974216,0.20444857390980717
+EX230,Inakraf Wood Carving,0.048802975679234605,0.20237479440437128
+EX188,Sahabat Gamelan (SAGA),0.04864394733207321,0.2017153401679578
+EX124,Malaysia Batik Canting Workshop,0.047993253920498705,0.19901706319703738
+EX173,Pottery Making Class in Kuala Lumpur,0.04584062701903024,0.19009061105860023
+EX73,Juliana Native Handwork & Bead Art Workshop,0.044023428003100676,0.18255510175569006
+EX85,Kampung Padi,0.04320272557690286,0.17915183622818204
+EX118,Learning Traditional Dance,0.03869997010063048,0.1604799376178785
+EX146,Nazlina Spice Station,0.038515618075178046,0.15971547187107277
+EX18,Borneo Cultural Village,0.03846502807964924,0.15950568671347598
+EX148,Nohutu Ecotourism,0.03632896821731386,0.1506479343027047
+EX206,Tanjak Warisan Yusoff,0.03588222044746822,0.14879537333045253
+EX102,Koisaan Cultural Village,0.033284076462184724,0.13802146359366518
+EX216,Traditional Nyonya Dessert Cooking Class in Melaka,0.03281040713734871,0.13605726508127544
+EX138,Monsopiad Heritage Village,0.03266563968791282,0.13545694753079257
+EX81,Kampung Budaya Terengganu,0.03262151756870421,0.13527398317914696
+EX35,Darau Wetland Eco Tourism,0.03166256666227961,0.13129743277764883
+EX36,Dayak Bidayuh Traditional Costume,0.03123520309731392,0.12952525367602388
+EX180,Rong Reng Miri Sarawak,0.030681986317655802,0.12723119003572012
+EX77,Kalimi Wau Bulan,0.029932553888263196,0.1241234649081552
+EX132,Masala Medley Cooking Class,0.02931993973132948,0.12158309390960112
+EX225,Wau Fun Run,0.02901717772200339,0.12032760900241968
+EX177,Pusat Pengembangan Tenun Pahang Diraja Kg. Soi,0.027720370335766416,0.11495004493959052
+EX43,Experience Mountain Village Life 3D2N Tour,0.02770241187426542,0.11487557530114122
+EX68,Ilham Ceramic Studio,0.02741049223683049,0.11366505123398624
+EX197,Step Into Batu Caves,0.026938722047346573,0.11170872800217267
+EX123,Maklang Cafe by Ilham Ceramic Studio,0.02323219653131572,0.09633861319213524
+EX79,Kampung Bilit Homestay,0.0231780674319288,0.09611415217910765
+EX113,Lambo Sari,0.02290268149056726,0.09497218957356496
+EX125,Malaysia Games Festival @ Putrajaya 2025 (FPM@Putrajaya 2025),0.021686960137507,0.08993087077170224
+EX06,Azydar Enterprise,0.02022316947403548,0.08386086519421175
+EX111,Labu Sayong Kraf Hanis,0.01825695705164441,0.07570743132673505
+EX164,Perencah Mee Bandung Mak Pon,0.01589390259801279,0.06590838418741246
+EX49,Floating Market Sri Tanjung Tumpat,0.0,0.0
+EX48,Festival Wayang Wong 2025,0.0,0.0
+EX55,Gani Famous Pasembur,0.0,0.0
+EX47,Festival Lentera Putrajaya,0.0,0.0
+EX45,Explore the Origin of Kuala Lumpur with a Local,0.0,0.0
+EX56,Hami EcoFarm,0.0,0.0
+EX59,Herbal Nasuha,0.0,0.0
+EX60,Historical Malacca Day Tour from Kuala Lumpur (Private Tour),0.0,0.0
+EX58,Hayat Creative Craft,0.0,0.0
+EX57,Handicraft Market,0.0,0.0
+EX39,Dodol Warisan Hajah Tijah (Uncle D) Dodol Melaka,0.0,0.0
+EX38,D'Impian Agro Farm,0.0,0.0
+EX37,Dev's Adventure Tour Sdn Bhd,0.0,0.0
+EX34,Dapo Kueh by Norhayu Kitchen,0.0,0.0
+EX33,Dapako Hill - Lingga Eco Tourism,0.0,0.0
+EX29,Chillax Paddy Field Sunset Biking,0.0,0.0
+EX30,Choley Kampung Warna Warni Kuala Perlis,0.0,0.0
+EX31,Cozy Leisure Farm (Bertam Valley),0.0,0.0
+EX27,Che Minah Songket,0.0,0.0
+EX26,Cenderamata Kayu by Kayu Warisan,0.0,0.0
+EX25,Cencol Sagu Rumbia,0.0,0.0
+EX28,Chew Jetty,0.0,0.0
+EX24,Cameron Highlands Day Tour from Ipoh with Mossy Forest,0.0,0.0
+EX21,Bot Ronda Murah Tasik Santuari Hopping,0.0,0.0
+EX22,Botanical Gardens Penang,0.0,0.0
+EX23,Busana & Tanjak Pengiran,0.0,0.0
+EX11,Batik House MY,0.0,0.0
+EX07,Baba Nyonya Heritage Museum,0.0,0.0
+EX04,Asrina Craft Enterprise,0.0,0.0
+EX05,Azahari Boat Services,0.0,0.0
+EX01,A'moss,0.0,0.0
+EX02,Air Terjun Takah Pengkoi,0.0,0.0
+EX12,Batik Wau Bulan (A Malaysian Heritage Kite) Making Workshop,0.0,0.0
+EX03,Annah Rais Longhouse Visit,0.0,0.0
+EX15,Bekang Tradisional Hujung Tanjung (Pok Weil),0.0,0.0
+EX14,BeadStory & Crafts,0.0,0.0
+EX16,Biking through Malay Countryside,0.0,0.0
+EX19,Borneo Happy Farm,0.0,0.0
+EX20,Borneo Tree House,0.0,0.0
+EX13,Bazar Kuih Tradisional Gong Kapas,0.0,0.0
+EX09,Batik Boutique Corporate Services and Workshop Studio,0.0,0.0
+EX08,Balai Kito Homestay,0.0,0.0
+EX103,Kraftangan Kuala Kangsar No. C-1,0.0,0.0
+EX101,Kiulu Farmstay,0.0,0.0
+EX100,Kilang Kerepek Mak Jah,0.0,0.0
+EX99,KHN Harum Manis,0.0,0.0
+EX97,Keropok Lekor Tokku,0.0,0.0
+EX98,Khairol Fiber Group,0.0,0.0
+EX96,Keropok Lekor Ori Terengganu No. 1,0.0,0.0
+EX95,Kerepek Ubi Pedas Zaronah / Tugi,0.0,0.0
+EX89,Kedai Jala Mad Rezeki,0.0,0.0
+EX94,Kek Lapis Warisan Sdn Bhd,0.0,0.0
+EX93,Kek Lapis Mua Izzaty,0.0,0.0
+EX91,Kek Lapis Dayang Salhah,0.0,0.0
+EX88,Kedai Belacan Cincaluk Sri Murni,0.0,0.0
+EX90,Kedai Kraftangan Lina Madu,0.0,0.0
+EX86,Kareem Pasembur Rojak,0.0,0.0
+EX87,Kebun Limau Agro Cikgu Ibrahim,0.0,0.0
+EX72,Jeti Pak Awang River Cruise,0.0,0.0
+EX75,Kak Yah Budu Tempayan,0.0,0.0
+EX82,Kampung Dagat Homestay,0.0,0.0
+EX83,Kampung Kuantan Fireflies Park,0.0,0.0
+EX80,Kampung Budaya Sarawak,0.0,0.0
+EX74,Kadaiku • Sabah Souvenirs & Handicrafts,0.0,0.0
+EX76,"Kalang Warisan, Serada",0.0,0.0
+EX78,Kampung Agong Heritage Theme Park,0.0,0.0
+EX63,Homemade Coklat Nise,0.0,0.0
+EX62,Hola Campsite Cameron Highlands,0.0,0.0
+EX64,Homemade Kuih Bakar Melaka Semabok,0.0,0.0
+EX65,Homestay Water Village Patau-Patau 2,0.0,0.0
+EX67,Ikan Bilis Sabarang Sungai Enterprise,0.0,0.0
+EX66,Hunter Boat Service,0.0,0.0
+EX70,Jelita Ostrich Farm,0.0,0.0
+EX71,Jeruk Madu Pak Ali,0.0,0.0
+EX40,Dooran Dooran Orchard Tours,0.0,0.0
+EX41,Eco Tourism Kampung Sungai Melayu,0.0,0.0
+EX46,Fatimah Songket Terengganu,0.0,0.0
+EX42,Eko-Pelancongan Kg. Kolosunan,0.0,0.0
+EX44,Explore Kampung Baru with a Local,0.0,0.0
+EX129,Marang ATV Eco Tour,0.0,0.0
+EX122,Makanan Tradisional Melaka (CekPah Chickeboom),0.0,0.0
+EX120,LoQSakri Agro Farm - Restaurant & Cafe,0.0,0.0
+EX110,Labu Sayong BD KRAF,0.0,0.0
+EX109,Kuih Sopang Frozen,0.0,0.0
+EX143,Naimah Harumanis Perlis Asli,0.0,0.0
+EX144,Nasi Dagang Atas Tol,0.0,0.0
+EX147,NBA Ledang Foodstuff,0.0,0.0
+EX136,Mira Cake House (Kek Basah Sarawak),0.0,0.0
+EX137,Miso Walai Homestay & Village Tours,0.0,0.0
+EX139,Murug Turug Eco Tourism,0.0,0.0
+EX135,MIe Wau Sering,0.0,0.0
+EX134,Mee Siput Kak Chik,0.0,0.0
+EX133,Maskamal Batik & Trading,0.0,0.0
+EX131,Mariwansa Kraftangan Sdn Bhd,0.0,0.0
+EX128,Mamamidah - Authentic Dodol Manufacturer,0.0,0.0
+EX114,Langkawi Eco Ventures (Mangrove Kayak Tour),0.0,0.0
+EX112,Labu Sayong Xtream Craft Deco N Pottery,0.0,0.0
+EX115,Lata Kashmir View,0.0,0.0
+EX119,Live like Local 2D1N Tour,0.0,0.0
+EX117,Learn Cooking Malaysian Local Cuisine,0.0,0.0
+EX116,Learn Authentic Malaysian Vegan Cooking,0.0,0.0
+EX104,KT Kraf,0.0,0.0
+EX107,Kuih Bakar Kuala Ina,0.0,0.0
+EX108,Kuih Bakar Tradisional Bandar Melaka,0.0,0.0
+EX106,Kuan Wellness Ecopark,0.0,0.0
+EX105,Kuala Sepetang Eco Tourism,0.0,0.0
+EX166,Perniagaan Benang Serat Nanas M&Z,0.0,0.0
+EX165,Perlis Vineyard,0.0,0.0
+EX161,Pau Mira Frozen Food Pagoh,0.0,0.0
+EX162,Penang Homecooking School,0.0,0.0
+EX160,Pasembur King (Hussain),0.0,0.0
+EX157,Pakmud Batik,0.0,0.0
+EX158,Pandan Molek Enterprise,0.0,0.0
+EX159,Parit Falls Campsite,0.0,0.0
+EX155,Ottornest Camp,0.0,0.0
+EX154,Open Traditional Dance Class,0.0,0.0
+EX153,Ole Ole Melaka,0.0,0.0
+EX156,Paklim Gift & Souvenir,0.0,0.0
+EX152,Oh Dayang,0.0,0.0
+EX149,Nomad Adventure Sdn Bhd,0.0,0.0
+EX150,Nordin Batik Sdn. Bhd,0.0,0.0
+EX151,O Green Durian Farm,0.0,0.0
+EX183,Rumah Laksa Enam Bintang,0.0,0.0
+EX182,Royal Selangor Pewter Workshop (KL),0.0,0.0
+EX186,Ruza Agrotech,0.0,0.0
+EX184,Rumah Makan Perpateh,0.0,0.0
+EX187,Sabahan Local Food Cooking Class at Kinarut,0.0,0.0
+EX189,Sambal Streets Kuala Lumpur Food Tour with 15+ Tastings,0.0,0.0
+EX190,Sarawak Handicraft Centre,0.0,0.0
+EX170,Perusahaan Keropok Lekor Hj. Puteh,0.0,0.0
+EX175,Pua Kumbu Tapestries,0.0,0.0
+EX169,Perusahaan Kerepek Tok Atan,0.0,0.0
+EX178,Restoran Selera Nogori,0.0,0.0
+EX176,Pusat Manik Seramik Long Tuma (Handmade Ceramic Beads Lawas),0.0,0.0
+EX179,Rini Craft - Beg Kraftangan Anyaman,0.0,0.0
+EX181,Ronna Creativa Rattan Craft,0.0,0.0
+EX171,Pine Valley Vila & Camper Site,0.0,0.0
+EX168,"Perusahaan Abdullah Sekeluarga, Pusat pengumpulan dan jualan Mempelam Harumanis",0.0,0.0
+EX199,Sumiran Eco Park & Resort,0.0,0.0
+EX198,Stong Heritage Eco Resort,0.0,0.0
+EX196,Songket Weaving Memento Experience,0.0,0.0
+EX195,Sky Mirror Sekinchan,0.0,0.0
+EX193,Selling Craft by Orang Asli,0.0,0.0
+EX194,"Sky Ladder Pineapple Farm, Port Dickson",0.0,0.0
+EX192,Sekati Emas Boat Tour,0.0,0.0
+EX191,Segong Handicraft,0.0,0.0
+EX185,Rustic Borneo Craft Ent,0.0,0.0
+EX208,Teratak Rimba Amir,0.0,0.0
+EX204,Tanjak Warisan by Tanjak Lestari Balong Ayam Songket,0.0,0.0
+EX200,Sungai Lima Pulau Ketam Eco Tour,0.0,0.0
+EX203,Taman Eko Rimba Sungai Pauh,0.0,0.0
+EX202,Talula Hill Farm Resort,0.0,0.0
+EX205,Tanjak Warisan Tokwan,0.0,0.0
+EX201,Take a Guided Ride on the Wind and Green Malacca,0.0,0.0
+EX215,Traditional Music Instrument Maker and Supplier,0.0,0.0
+EX214,Traditional Instrument Gambus by Habis Kreatif Enterprise,0.0,0.0
+EX213,Traditional Dance Workshop,0.0,0.0
+EX212,The Rimba Lavender Heights,0.0,0.0
+EX211,The Backyard Glamping Cameron Highlands,0.0,0.0
+EX209,Terengganu Songket,0.0,0.0
+EX218,Tropical Spice Garden,0.0,0.0
+EX217,Treegrow Camp,0.0,0.0
+EX223,Village Farm Day Tour,0.0,0.0
+EX222,VH Green Nature Park,0.0,0.0
+EX221,UNESCO Heritage Discovery Ride,0.0,0.0
+EX220,Uncle Wong Happy Farm,0.0,0.0
+EX219,UK Farm Kluang Agro Resort,0.0,0.0
+EX227,YA Harumanis Perlis Original,0.0,0.0
+EX229,Zakka Campsite,0.0,0.0
+EX228,Zaini Salai House,0.0,0.0
